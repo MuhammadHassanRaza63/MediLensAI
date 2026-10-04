@@ -1,0 +1,14 @@
+{
+  "_note": "FALLBACK adult ranges, used ONLY when the report itself prints no reference range. The report's own printed range always wins. 'verified' means the value was seen in a public lab/clinical page during research (see 'source'); 'unverified' values come from general knowledge and must be checked by the team's clinical advisor.",
+  "tests": {
+    "hemoglobin": {"unit": "g/dL", "male": [13.5, 17.5], "female": [12.0, 16.0], "verified": true, "source": "https://www.ohsu.edu/lab-services/cbc-differential"},
+    "hematocrit": {"unit": "%", "male": [38.3, 48.6], "female": [35.5, 44.9], "verified": true, "source": "https://healthrx.com/labs-cbc/how-to-interpret"},
+    "wbc": {"unit": "10^3/uL", "male": [4.5, 11.0], "female": [4.5, 11.0], "verified": true, "source": "https://healthrx.com/labs-cbc/how-to-interpret"},
+    "platelets": {"unit": "10^3/uL", "male": [150, 400], "female": [150, 400], "verified": true, "source": "https://www.thebloodproject.com/understanding-your-cbc/"},
+    "rbc": {"unit": "10^6/uL", "male": [4.5, 6.0], "female": [4.0, 5.2], "verified": false, "source": "general knowledge; confirm with clinical advisor"},
+    "mcv": {"unit": "fL", "male": [80, 100], "female": [80, 100], "verified": false, "source": "general knowledge; confirm with clinical advisor"},
+    "mch": {"unit": "pg", "male": [27, 33], "female": [27, 33], "verified": false, "source": "general knowledge; confirm with clinical advisor"},
+    "mchc": {"unit": "g/dL", "male": [32, 36], "female": [32, 36], "verified": false, "source": "general knowledge; confirm with clinical advisor"},
+    "rdw": {"unit": "%", "male": [11.5, 14.5], "female": [11.5, 14.5], "verified": false, "source": "general knowledge; confirm with clinical advisor"}
+  }
+}

@@ -1,0 +1,11 @@
+Django>=5.0
+djangorestframework>=3.15
+pydantic>=2.0
+rapidfuzz>=3.0
+pdfplumber>=0.11
+Pillow>=10.1
+numpy
+pytesseract
+anthropic            # only needed when MEDILENS_LLM_PROVIDER=anthropic
+reportlab            # tests only (builds sample PDFs)
+# System package needed for OCR: tesseract-ocr (e.g. `sudo apt install tesseract-ocr`, or the Windows installer)

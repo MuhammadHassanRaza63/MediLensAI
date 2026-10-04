@@ -1,0 +1,18 @@
+brand,ingredient,strength,form,general_use,source
+Panadol,paracetamol,500 mg,tablet,Used to reduce fever and relieve mild to moderate pain.,SAMPLE_UNVERIFIED
+Calpol,paracetamol,500 mg,tablet,Used to reduce fever and relieve mild to moderate pain.,SAMPLE_UNVERIFIED
+Brufen,ibuprofen,400 mg,tablet,Used to relieve pain and inflammation and to reduce fever.,SAMPLE_UNVERIFIED
+Arinac Forte,ibuprofen + pseudoephedrine,400 mg + 60 mg,tablet,Used for cold and flu symptoms such as blocked nose with pain or fever.,SAMPLE_UNVERIFIED
+Arinac,ibuprofen + pseudoephedrine,200 mg + 30 mg,tablet,Used for cold and flu symptoms such as blocked nose with pain or fever.,SAMPLE_UNVERIFIED
+Disprin,aspirin,300 mg,tablet,Used to relieve pain and reduce fever.,SAMPLE_UNVERIFIED
+Augmentin,amoxicillin + clavulanic acid,500 mg + 125 mg,tablet,An antibiotic used for certain bacterial infections.,SAMPLE_UNVERIFIED
+Flagyl,metronidazole,400 mg,tablet,An antibiotic used for certain bacterial and parasitic infections.,SAMPLE_UNVERIFIED
+Risek,omeprazole,20 mg,capsule,Used to reduce stomach acid in conditions such as acid reflux and ulcers.,SAMPLE_UNVERIFIED
+Risek,omeprazole,40 mg,capsule,Used to reduce stomach acid in conditions such as acid reflux and ulcers.,SAMPLE_UNVERIFIED
+Losec,omeprazole,20 mg,capsule,Used to reduce stomach acid in conditions such as acid reflux and ulcers.,SAMPLE_UNVERIFIED
+Ponstan Forte,mefenamic acid,500 mg,tablet,Used to relieve pain including period pain.,SAMPLE_UNVERIFIED
+Zyrtec,cetirizine,10 mg,tablet,An antihistamine used for allergy symptoms such as sneezing and itching.,SAMPLE_UNVERIFIED
+Glucophage,metformin,500 mg,tablet,Used to help control blood sugar in type 2 diabetes.,SAMPLE_UNVERIFIED
+Voltaren,diclofenac,50 mg,tablet,Used to relieve pain and inflammation.,SAMPLE_UNVERIFIED
+Lipitor,atorvastatin,20 mg,tablet,Used to lower cholesterol.,SAMPLE_UNVERIFIED
+Norvasc,amlodipine,5 mg,tablet,Used to treat high blood pressure and certain types of chest pain.,SAMPLE_UNVERIFIED

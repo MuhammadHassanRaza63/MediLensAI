@@ -1,0 +1,12 @@
+{
+  "status": "PLACEHOLDER_REQUIRES_CLINICAL_SIGNOFF",
+  "_note": "Critical (panic) limits differ between labs. These values are rounded from several public lab lists seen during research (OHSU, CPL, Labpedia, healthrx) and are NOT clinically approved. A doctor or lab advisor must review and sign off before any real use. Edit this file; no code change needed.",
+  "signed_off_by": null,
+  "signed_off_on": null,
+  "tests": {
+    "hemoglobin": {"unit": "g/dL", "low": 7.0, "high": 20.0},
+    "hematocrit": {"unit": "%", "low": 20.0, "high": 60.0},
+    "wbc": {"unit": "10^3/uL", "low": 2.0, "high": 30.0},
+    "platelets": {"unit": "10^3/uL", "low": 20, "high": 1000}
+  }
+}
